@@ -1,4 +1,5 @@
 
 resources:
+- crds.yaml
 - driver.yaml
 - snapshot-controller.yaml

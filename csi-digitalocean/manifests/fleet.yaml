@@ -2,5 +2,5 @@
 kustomize:
   dir: .
 
-dependsOn:
-  - name: fleet-test-csi-digitalocean-crds
+# dependsOn:
+#   - name: fleet-test-csi-digitalocean-crds

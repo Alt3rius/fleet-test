@@ -1,0 +1,6 @@
+
+kustomize:
+  dir: .
+
+dependsOn:
+  - name: fleet-test-csi-digitalocean-crds
